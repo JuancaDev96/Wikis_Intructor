@@ -1,5 +1,5 @@
 # Business Layer (Capa de Negocio)
-
+*Instructor: Juan Carlos De La Cruz Ch*
 ## 📌 Propósito de la Capa de Negocio
 
 La **capa de negocio (Business Layer)** es el **corazón de la aplicación**. Aquí se orquestan los casos de uso, se aplican reglas de negocio y se controla el flujo entre la capa de presentación (API / UI) y la capa de persistencia (Repositories).
