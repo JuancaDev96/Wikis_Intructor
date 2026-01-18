@@ -1,5 +1,5 @@
 # Repositories Layer (Capa de Repositorios)
-
+*Instructor: Juan Carlos De La Cruz Ch*
 ## 📌 Propósito de la capa Repositories
 
 La **capa de Repositories** es responsable de **abstraer el acceso a datos** y encapsular toda la lógica relacionada con la persistencia. Actúa como un puente entre la **capa de dominio/aplicación** y la **capa de acceso a datos (DataAccess)**, evitando que el resto del sistema dependa directamente de **Entity Framework Core** o de detalles de infraestructura.
