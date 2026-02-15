@@ -11,6 +11,8 @@ aplicaciones junto con todas sus dependencias en una unidad estándar
 llamada **contenedor**, garantizando que se ejecuten de manera
 consistente en cualquier entorno.
 
+<img width="800" height="939" alt="image" src="https://github.com/user-attachments/assets/74199c1b-79b4-4bc1-be09-9f020986ca01" />
+
 ------------------------------------------------------------------------
 
 ## 🚀 Impacto en Implementaciones Modernas
