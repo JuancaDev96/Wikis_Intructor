@@ -1,9 +1,3 @@
----
-title: RabbitMQ & Event-Driven Architecture with .NET
-instructor: Juan Carlos De La Cruz
-date: 2024
----
-
 # 🚀 RabbitMQ y Arquitecturas Orientadas a Eventos con .NET
 
 > **Instructor:** Juan Carlos De La Cruz  
