@@ -1,0 +1,12 @@
+# 1. Build
+docker build -t api-seguridad:v5 .
+
+# 2. Tag
+docker tag api-seguridad:v5 www.url.com/api-seguridad:v5
+
+# 3. Push
+docker push www.url.com/api-seguridad:v5
+
+
+# 4. Exec un VPC
+docker stack deploy -c docker-compose.yml mi-app-gym --with-registry-auth
