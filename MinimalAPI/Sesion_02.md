@@ -1,4 +1,3 @@
-# Wiki Técnica — Sesiones 03-04
 ## Arquitectura de APIs en .NET 10 · Implementación de Minimal APIs
 
 **Módulo 01: Back-End — Minimal APIs con .NET 10**
